@@ -1,13 +1,227 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.signin-container {
+  position: absolute;
+  top: 178px;
+  left: 313px;
+  display: flex;
+  justify-content: space-between;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.signin-left {
+  text-align: left;
+    color: #3D3D3D;
+    margin: 0 0 0 182px;
+}
+
+.signin-left h1 {
+  font-size: 32px;
+  font-weight: bold;
+  margin: 37px 0 0 0;
+}
+
+.signin {
+  margin: 20px 0;
+}
+
+.signin .signin-newuser {
+  text-align: left;
+  font-weight: bold;
+  font-size: 16px;
+  color: #3D3D3D;
+}
+
+.signin .signin-newuser span {
+  cursor: pointer;
+  color: #587FFF;
+}
+
+.form-input {
+  margin-top: 20px;
+}
+
+
+.username-input input,
+.username-input input:focus,
+.username-input input:active {
+  padding: 12px;
+    margin-bottom: 10px;
+    color: #3E3E3E;
+    width: 280px;
+    height: 22px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #3E3E3E;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.checkbox-input {
+  width: 18px;
+  height: 18px;
+}
+
+.label {
+  margin-left: 10px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.btn-signin {
+  width: 301px;
+  height: 48px;
+  background: #3C3C3C;
+  color: white;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.sign-in-with {
+  text-align: center;
+  color: #3D3D3D;
+  margin-top: 20px;
+}
+
+.sign-in-with p {
+  position: relative;
+  margin-bottom: 10px;
+  font: normal normal bold 13px/19px Noto Sans;
+}
+
+.sign-in-with p::before,
+.sign-in-with p::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 86px;
+  height: 1px;
+  background-color: #CFCFCF;
+}
+
+.sign-in-with p::before {
+  left: 1px;
+}
+
+.sign-in-with p::after {
+  right: 6px;
+}
+
+.social-images {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+
+
+.signin-right {
+  margin: 0 0 0 211px;
+}
+
+.image-bg {
+  width: 117%;
+  height: auto;
+}
+.header {
+  display: flex;
+  align-items: center;
+  margin: 0 5%;
+}
+
+
+.header-left {
+  font: normal normal bold 24px/34px Noto Sans;
+  color: #3D3D3D;
+  position: relative;
+    left: 54px;
+}
+
+.header-right {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 1;
+  margin: 0 58px 0 0;
+}
+
+
+.header-right li {
+  margin-left: 10px;
+}
+
+
+
+
+.active {
+  font-weight: bold;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-wrapper{
+  margin: 36px 0 0 0;
+}
+.container {
+  width: calc(41% - 0px);
+  height: 95px;
+  background: #FFFFFF;
+  border: 2px solid #3E3E3E;
+  margin: 11px;
+  display: flex;
+  align-items: center;
+}
+
+.flag {
+  width: 127px;
+    height: 78px;
+  padding: 3px 26px 2px 11px;
+}
+
+.country-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.country-name {
+  padding: 0 0 11px 0;
+  font: normal normal 600 24px/32px Noto Sans;
+  letter-spacing: 0px;
+  color: #3D3D3D;
+}
+
+.country-region {
+  font-size: 18px;
+  color: #6F6F6F;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.email {
+  height: 17px;
+  text-align: center;
+  font: normal normal bold 13px/19px Noto Sans;
+  letter-spacing: 0.39px;
+  color: #3D3D3D;
+  margin: 9px 0 0 0;
+}
+
+.copyright {
+  text-align: center;
+  font: normal normal bold 13px/19px Noto Sans;
+  letter-spacing: 0.39px;
+  color: #3D3D3D;
+  margin: 16px 0 0 0;
 }

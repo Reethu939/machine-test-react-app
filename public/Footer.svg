@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="140" viewBox="0 0 290 140">
+  <g id="Footer" transform="translate(-537 -1782)">
+    <text id="Typography_TAG:UI_S_" data-name="Typography [TAG:UI_S]" transform="translate(682 1884)" fill="#3d3d3d" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.03em"><tspan x="-68.677" y="0">Example@email.com </tspan></text>
+    <text id="Typography_TAG:UI_S_2" data-name="Typography [TAG:UI_S]" transform="translate(682 1918)" fill="#3d3d3d" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.03em"><tspan x="-144.049" y="0">Copyright © 2020 Name. All rights reserved.</tspan></text>
+    <g id="Circle_Button_" data-name="Circle Button " transform="translate(691 1782)">
+      <g id="Area_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="48" height="48" rx="24" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="23" fill="none"/>
+      </g>
+      <g id="Icon_" data-name="Icon " transform="translate(14 14)">
+        <rect id="Area_ICON:feather_linkedin_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/linkedin][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" width="20" height="20" fill="rgba(253,73,198,0.35)" opacity="0"/>
+        <g id="Icon" transform="translate(1.667 1.667)">
+          <path id="Path" d="M13.333,6.667a5,5,0,0,1,5,5V17.5H15V11.667a1.667,1.667,0,1,0-3.333,0V17.5H8.333V11.667A5,5,0,0,1,13.333,6.667Z" transform="translate(-1.667 -1.667)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+          <rect id="Rect" width="3.333" height="10" transform="translate(0 5.833)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+          <circle id="Path-2" data-name="Path" cx="1.667" cy="1.667" r="1.667" transform="translate(0 0)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        </g>
+      </g>
+    </g>
+    <g id="Circle_Button_2" data-name="Circle Button " transform="translate(755 1782)">
+      <g id="Area_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_2" data-name="Area [SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="48" height="48" rx="24" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="23" fill="none"/>
+      </g>
+      <g id="Icon_2" data-name="Icon " transform="translate(14 14)">
+        <rect id="Area_ICON:feather_youtube_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/youtube][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" width="20" height="20" fill="rgba(253,73,198,0.35)" opacity="0"/>
+        <g id="Icon-2" data-name="Icon" transform="translate(1.667 1.667)">
+          <path id="Path-3" data-name="Path" d="M18.783,5.35a2.316,2.316,0,0,0-1.616-1.667A60.022,60.022,0,0,0,10,3.333a54.752,54.752,0,0,0-7.167.384A2.315,2.315,0,0,0,1.217,5.383,24.145,24.145,0,0,0,.833,9.792a24.132,24.132,0,0,0,.384,4.441,2.316,2.316,0,0,0,1.616,1.6A54.752,54.752,0,0,0,10,16.217a54.752,54.752,0,0,0,7.167-.384,2.315,2.315,0,0,0,1.616-1.666,24.131,24.131,0,0,0,.384-4.375A24.143,24.143,0,0,0,18.783,5.35Z" transform="translate(-1.667 -1.667)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+          <path id="Path-4" data-name="Path" d="M8.125,12.517l4.792-2.725L8.125,7.067Z" transform="translate(-1.667 -1.667)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        </g>
+      </g>
+    </g>
+    <g id="Circle_Button_3" data-name="Circle Button " transform="translate(627 1782)">
+      <g id="Area_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_3" data-name="Area [SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="48" height="48" rx="24" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="23" fill="none"/>
+      </g>
+      <g id="Icon_3" data-name="Icon " transform="translate(14 14)">
+        <rect id="Area_ICON:feather_twitter_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/twitter][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" width="20" height="20" fill="rgba(253,73,198,0.35)" opacity="0"/>
+        <g id="Icon-3" data-name="Icon" transform="translate(0.833 2.491)">
+          <path id="Path-5" data-name="Path" d="M19.167,2.5A9.094,9.094,0,0,1,16.55,3.775,3.733,3.733,0,0,0,10,6.275v.833A8.884,8.884,0,0,1,2.5,3.333s-3.333,7.5,4.167,10.834A9.7,9.7,0,0,1,.833,15.833C8.333,20,17.5,15.833,17.5,6.25a3.739,3.739,0,0,0-.067-.692A6.427,6.427,0,0,0,19.167,2.5Z" transform="translate(-0.833 -2.491)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        </g>
+      </g>
+    </g>
+    <g id="Circle_Button_4" data-name="Circle Button " transform="translate(563 1782)">
+      <g id="Area_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_4" data-name="Area [SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="48" height="48" rx="24" stroke="none"/>
+        <rect x="1" y="1" width="46" height="46" rx="23" fill="none"/>
+      </g>
+      <g id="Icon_4" data-name="Icon " transform="translate(14 14)">
+        <rect id="Area_ICON:feather_facebook_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/facebook][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" width="20" height="20" fill="rgba(253,73,198,0.35)" opacity="0"/>
+        <g id="Icon-4" data-name="Icon" transform="translate(5.833 1.667)">
+          <path id="Path-6" data-name="Path" d="M15,1.667H12.5A4.167,4.167,0,0,0,8.333,5.833v2.5h-2.5v3.334h2.5v6.666h3.334V11.667h2.5L15,8.333H11.667v-2.5A.833.833,0,0,1,12.5,5H15Z" transform="translate(-5.833 -1.667)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
